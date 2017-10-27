@@ -56,7 +56,8 @@ setup.cfg
 tox.ini
 /myvenv/
 myvenv/*
-.idea/
+.idea/*
 *.pyc
 .settings/*
 .settings
+db.sqlite3
