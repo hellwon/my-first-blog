@@ -1,0 +1,6 @@
+/myvenv/
+myvenv/*
+.idea/
+*.pyc
+.settings/*
+.settings
