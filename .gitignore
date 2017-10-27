@@ -54,4 +54,9 @@ nosetests.xml
 /venv/*
 setup.cfg
 tox.ini
-
+/myvenv/
+myvenv/*
+.idea/
+*.pyc
+.settings/*
+.settings
