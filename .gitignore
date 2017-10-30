@@ -60,4 +60,3 @@ myvenv/*
 *.pyc
 .settings/*
 .settings
-db.sqlite3
